@@ -8,7 +8,7 @@ techs: [Javascript, Bootstrap 3, HTML5, CSS]
 designs: [ ]
 thumbnail: metal-o-matic/metalomatic.jpg
 projectUrl: https://github.com/iamfonz/MetalOMatic
-draft: true
+draft: false
 
 ---
 
