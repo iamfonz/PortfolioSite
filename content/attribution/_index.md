@@ -3,6 +3,8 @@ title: Attributions
 description: Giving credit where credit is due.
 
 ---
+
+
 I'd like to take a moment to give credit where credit is due.  
 
 -  This site is made and powered by [Hugo](https://gohugo.io/).

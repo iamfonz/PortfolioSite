@@ -2,8 +2,8 @@
 title: Box Content Labeler
 description: A program that generates a barcode label that contains the contents of a box in a formatted string per Amazon's spec.
 date: "2017-8-02T16:30:16+02:00"
-jobDate: 2017-2019
-work: [desktop, e-commerce, amazon, thermal printers]
+jobDate: 2017
+work: [desktop, e-commerce, amazon]
 techs: [.Net, Entity Framework, WPF, ZPL, PDF417, EPPlus]
 designs: [ ]
 thumbnail: 

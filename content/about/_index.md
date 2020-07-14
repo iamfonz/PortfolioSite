@@ -34,9 +34,9 @@ Alongside programming, I have extensive experience providing technical support r
 
 ---
 
- **Warehouse Manager** 
+ **Warehouse and Operations Manager** 
  
- [Shoe Box](http://www.theshoeboxabq.com/) | Albuquerque, NM | 05/2012 - 03-2020
+ [Shoe Box](http://www.theshoeboxabq.com/) | Albuquerque, NM | 05/2012 - 03/2020
 
 - Maintain receiving, warehousing, and distribution operations by initiating, coordinating, and enforcing warehouse systems
 - Manage warehouse staff to achieve warehouse operational requirements by scheduling and assigning staff to various projects
