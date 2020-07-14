@@ -16,4 +16,4 @@ When I started working for my previous employer, Shoe Box, in 2012, inventory wa
 
 And so, my quest to overhaul the inventory process started around 2014. I didn't have any programming skills when I started this venture. Though, I had more than enough Excel and PC skills to rig something together. It started out as filling in an Excel worksheet with Sku and Quantity pairs. While it was a bit faster than pen and paper, it still wasn't quite cutting it.
 
-One day when I was repairing a colleague's PC, I found an old USB barcode scanner in the network room. I was ecstatic becayse I knew scanning barcodes was going to be much faster and easier. But I still had a hurdle to overcome. I needed a way to match the barcode values with Sku values. 
+One day when I was repairing a colleague's PC, I found an old USB barcode scanner in the network room. I was ecstatic because I knew scanning barcodes was going to be much faster and easier. But I still had a hurdle to overcome. I needed a way to match the barcode values with Sku values. 
