@@ -1,6 +1,6 @@
 ---
-title: "New Mexico Neurology Associates Website"
-description: 
+title: New Mexico Neurology Associates Website
+description: New Mexico Neurology Associates Website built with ASP.Net Core.
 date: "2019-05-24T10:49:18-06:00"
 jobDate: 2019
 work: [web, full-stack web development,  cloud server]
