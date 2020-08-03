@@ -80,6 +80,6 @@ As mentioned before, the program is a console program. I started it this way so 
 
 When I was laid off, I was also in the process of looking for employment as a full-time developer. I had an interview lined up but it had to be cancelled due to COVID. I advised my supervisors to rehire other people who really needed the job before me. Fortunately, I was in a good financial spot to be able to make that decision. 
 
-Thenkfully, they rehired another colleague who does web design and knew enough to be able to take over the program. They've done a few updates to enhance the user interface of the program and added some other functionality. I feel good and like I've left it in good hands. I left Shoe Box on good terms and they wish me the best of luck on my endeavors.
+Thankfully, they rehired another colleague who does web design and knew enough to be able to take over the program. They've done a few updates to enhance the user interface of the program and added some other functionality. I feel good and like I've left it in good hands. I left Shoe Box on good terms and they wish me the best of luck on my endeavors.
 
 All in all I'm proud of this work and how hard I worked on it. The program continues to be used everyday for all inventory related tasks. I own the repo on Github, though it is private. I'd be happy to share it upon request to showcase my work and skills to potential employers. Hopefully this post didn't bore anyone and was somewhat intersting.
