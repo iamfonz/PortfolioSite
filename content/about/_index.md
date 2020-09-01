@@ -76,9 +76,9 @@ Alongside programming, I have extensive experience providing technical support r
 
 ---
 
-- Building PC's
-- Woodworking
 - Guitar
+- Building PC's
 - Gaming
-- DIY Housework
+- DIY Projects
+- Woodworking
 
