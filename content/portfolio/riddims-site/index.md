@@ -25,7 +25,8 @@ A lot of it stayed the same. The most major changes were on the front end and re
 
 The second version of the site is now hosted on [DigitalOcean](https://m.do.co/c/d2a53e8b19fa). I used a Ubuntu server with Nginx as a reverse proxy. This cut down costs considerably. Not to mention, it's made it easier for me to administer the site as I'm quite comfortable in Linux.  This solution proved to be the best for me.
 
-I still currently adminster the site for them. I simply SSH into the server whenever I need to make some updates. I own the repo on Github, though it is private. I'd be happy to share it upon request to showcase my work and skills to potential employers. 
+I still currently administer the site for them. I simply SSH into the server whenever I need to make some updates. I own the repo on Github, though it is private. I'd be happy to share it upon request to showcase my work and skills to potential employers. 
 
 ##### Disclaimer
-The DigitalOcean link above is a referral link. Per DigitalOcean "Everyone you refer gets $100 in credit over 60 days. Once they’ve spent $25 with us, you'll get $25. There is no limit to the amount of credit you can earn through referrals."
+The DigitalOcean link above is a referral link. Per DigitalOcean, 
+>Everyone you refer gets $100 in credit over 60 days. Once they’ve spent $25 with us, you'll get $25. There is no limit to the amount of credit you can earn through referrals.

@@ -59,17 +59,17 @@ Alongside programming, I have extensive experience providing technical support r
 
 
 
-### Acheivements
+### Achievements
 
 ---
 
-- Designed, implemented, and maintained a box content application using C#, Microsoft SQL Server database and Visual Studio, resulting in thousands of dollars in savings of Amazon seller fees. The project involved designing and implementing entity relationships from scratch, and designing a user interface to present data in a user-friendly way. The project also involved learning and researching various technologies.
+- Designed, implemented, and maintained a box content application using C#, Microsoft SQL Server database and Visual Studio, resulting in thousands of dollars in savings of Amazon seller fees. The project involved designing and implementing entity relationships from scratch, and designing a user interface to present data in a user-friendly way. The project also involved learning and researching various technologies. See [Box Content Labeler](/portfolio/box-content-labeler).
 
-- Designed, implemented and maintained inventory tracking application using C# Microsoft (MS) SQL Server database and Visual Studio, resulting in a 100% increase in productivity and efficiency. The project involved designing and creating the database and entity relationships, writing stored procedures, and using built-in functions to format data.
+- Designed, implemented and maintained inventory tracking application using C# Microsoft (MS) SQL Server database and Visual Studio, resulting in a 100% increase in productivity and efficiency. The project involved designing and creating the database and entity relationships, writing stored procedures, and using built-in functions to format data.[Inventory Processor](/portfolio/shoe-inventory).
 
 - Implemented new warehouse layout to improve functionality of the warehouse department resulting in an 100% increase in productivity. The new warehouse layout involved creating a location system and protocols on gathering inventory data. Which in turn complements the inventory application I developed.
 
-- Designed, implemented, deployed, and currently manage two websites using .Net Core framework and deploying to a Linux cloud server.
+- Designed, implemented, deployed, and currently manage two websites using .Net Core framework and deploying to a Linux cloud server. See [The Riddims Website](/portfolio/riddims-site) and [New Mexico Neurology Associates Website](/portfolio/neuro-site).
 
 
 ### Hobbies
