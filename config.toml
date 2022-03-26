@@ -11,7 +11,7 @@ pygmentsCodeFences=true
 
 [params.intro]
   main = "Hi, I'm Fonz :wave:"
-  sub = "I'm an up and coming developer"
+  sub = "I'm a Developer"
 
 [params.main]
   latestPublishHeader = "What I'm working on these days"

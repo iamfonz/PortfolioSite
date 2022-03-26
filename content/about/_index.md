@@ -9,7 +9,7 @@ My name is Alfonzo Avila, but you can call me Fonz. :wink:
 
 ### Profile 
 ---
-I'm an up & coming developer who loves learning how to build things and how they work. I have experience coding in the .Net Framework including ASP.Net Core to build desktop applications as well as websites. Furthermore, I have experience in database design and administration with various databases using SQL. I have some experience in Python writing miscellaneous scripts and currently learning & exploring programming electronics with Python. 
+I'm a developer who loves learning how to build things and how they work. I have experience coding in the .Net Framework including ASP.Net Core to build desktop applications as well as websites. Furthermore, I have experience in database design and administration with various databases using SQL. I have some experience in Python writing miscellaneous scripts and currently learning & exploring programming electronics with Python. 
 
 Alongside programming, I have extensive experience providing technical support ranging from software to hardware. I've helped install, configure, and repair various software issues for organizations and individuals. I've also built many PC's as well as replace many hardware components for PC's and mobile phones. I've always been the go-to person for anything tech related whether it be for friends and family, or in an organization.
 
@@ -19,13 +19,13 @@ Alongside programming, I have extensive experience providing technical support r
 ---
 **Bachelor of Applied Arts and Sciences in Information Systems and Programming Design Concentration**
 
-[Eastern New Mexico University](https://www.enmu.edu/academics/degrees-programs/undergraduate-degree/bachelor/bachelor-applied-arts-sciences-baas/baas-concentrations/information-and-systems-programming) | Portales, NM |  (01/2020 - Present)
+[Eastern New Mexico University](https://www.enmu.edu/academics/degrees-programs/undergraduate-degree/bachelor/bachelor-applied-arts-sciences-baas/baas-concentrations/information-and-systems-programming) | Portales, NM |  (01/2020 - 12/2020)
 
 
 
 ---
 
-**Associate of Applied Science  in Computer Information Systems with Computer Programming Concentration**
+**Associate of Applied Science in Computer Information Systems with Computer Programming Concentration**
 
 [Central New Mexico Community College](https://catalog.cnm.edu/preview_program.php?catoid=44&poid=10002&returnto=5844) | Albuquerque, NM | (01/2014 - 04/2017)
 
@@ -33,6 +33,14 @@ Alongside programming, I have extensive experience providing technical support r
 ### Work Experience
 
 ---
+ **Developer** 
+ 
+ [Nusenda Credit Union](http://www.nusenda.org/) | Albuquerque, NM | 10/2020 - Present
+
+- Develop internal and external applications using .NET Framework
+- Maintain and improve existing applications
+- Develop documentation of procedures, protocols, and proper software use.
+- Provide customer service to internal and external clients 
 
  **Warehouse and Operations Manager** 
  
@@ -42,9 +50,7 @@ Alongside programming, I have extensive experience providing technical support r
 - Manage warehouse staff to achieve warehouse operational requirements by scheduling and assigning staff to various projects
 - Manage, configure, and repair any technical issue such as software, hardware, and network.
 - Develop inventory tracking program using C# , MS SQL Server and Visual Studio.
-- Schedule and apply updates to data and software.
-- Conduct administration and maintenance of warehouse inventory database.
-- Develop documentation for procedures, protocols, and proper software use.
+- Develop documentation of procedures, protocols, and proper software use.
 - Train and support staff on use of application software and information systems.
 - Conduct QA sessions with staff to establish overall status and areas of improvement.
 - Use version control to track script and software updates as well as new scripts.
@@ -62,6 +68,7 @@ Alongside programming, I have extensive experience providing technical support r
 ### Achievements
 
 ---
+- Implemented and help orchestrate processsing of Bill and Person-to-Person payments nightly that can easily and quickly scale; processing on average $50 million worth of transactions on a monthly basis.
 
 - Designed, implemented, and maintained a box content application using C#, Microsoft SQL Server database and Visual Studio, resulting in thousands of dollars in savings of Amazon seller fees. The project involved designing and implementing entity relationships from scratch, and designing a user interface to present data in a user-friendly way. The project also involved learning and researching various technologies. See [Box Content Labeler](/portfolio/box-content-labeler).
 
