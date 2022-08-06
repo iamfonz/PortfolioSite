@@ -8,6 +8,6 @@ Hi,
 
 I'm Alfonzo Avila, but you can call me Fonz.  
 
-I'm a developer, technology enthusiast, a do-it-yourselfer, and proud dog-dad of four. I enjoy taking on new challenges and have a knack for figuring out how things work and how to fix them.
+I like to develop, play with technology, DIY, polay guitar, and hang with my four dogs. I enjoy taking on new challenges and have a knack for figuring out how things work and how to fix them.
 
-[Learn more about me](/about "Learn more :)")
+[Learn more about me](/about )

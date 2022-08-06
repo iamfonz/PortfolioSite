@@ -12,13 +12,13 @@ draft: false
 
 ---
 
-My mother-in-law works for [New Mexico Neurology Associates](https://newmexiconeurology.com/). They had been wanting to redo their website for some time. Quite frankly, it was old and looked like something from the early 2000's. I knew I could produce something better and more modern.
+My mother-in-law worked for [New Mexico Neurology Associates](https://newmexiconeurology.com/). They had been wanting to redo their website for some time. Quite frankly, it was old and looked like something from the early 2000's. I knew I could produce something better and more modern.
 
 I built this website using ASP.Net Core for the back end and used Bootstrap 4 with some custom CSS. Particularly, I tackled the styling using SASS. I had never used it before. A web developer friend of mine always touted how amazing SASS was. He encouraged me to try it and I'm extremely glad I did. It made styling cleaner and easier to manage. It was helpful to have everything modular instead of crammed in one big CSS file.
 
 As I had done so with [The Riddims website](/portfolio/riddims-site), I hosted this on [DigitalOcean](https://m.do.co/c/d2a53e8b19fa). Similar setup with a Ubuntu server and Nginx as a reverse proxy.
 
-I still currently administer the site for them. I simply SSH into the server whenever I need to make some updates. I own the repo on Github, though it is private. I'd be happy to share it upon request to showcase my work and skills to potential employers. 
+I no longer administer this website and it has been taken over by another web admin due to differences in the overall business ownership. Nonetheless, it was a great learning experience.
 
 ##### Disclaimer
 The DigitalOcean link above is a referral link. Per DigitalOcean, 
